@@ -2,7 +2,7 @@
 ## General
 When implementing new code, or making changes to existing code, create a branch with the following name: `YOURUSERNAME_WHAT_YOU_ARE_DOING`.  This helps to prevent pollution on the master branch and everyone can see what has been performed by whom via the branch names.
 
-Whenever you wish to have your code pushed to the master branch please create a pull request for the development team to review and merge.  Also make sure to leave a comment on what your code is going to be doing or changing to PhantomBot.  Your commit/pull-request should attempt to follow this format:
+Whenever you wish to have your code pushed to the master branch please create a pull request for the development team to review and merge.  Also make sure to leave a comment on what your code is going to be doing or changing to TheDaringBot.  Your commit/pull-request should attempt to follow this format:
 
 ```
 Brief description of the intended change
